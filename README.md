@@ -7,7 +7,7 @@ We tried to reproduce the results from the paper [1]. The authors have performed
 
 All of the code is written in Python and Quimb ’quantum information many-body' which is a fast Python library mainly for tensor networks. The repository contains the code for preparing the Matrix Product State and benchmarking it with classical state prep.
 
-For more information, refer to the 'Matrix Product State.pdf' file.
+For more information, refer to the 'Matrix State Preparation.pdf' file.
 
 ## References
 [1] Jielun Chen, E. M. Stoudenmire, and Steven R. White. The quantum fourier transform has small entanglement, 2022.
